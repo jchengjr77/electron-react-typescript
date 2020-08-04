@@ -16,7 +16,7 @@ function App() {
         <p>Electron, React, and Typescript boilerplate.</p>
         <a
           className='App-link'
-          href='https://reactjs.org'
+          href='https://github.com/jchengjr77/electron-react-typescript'
           target='_blank'
           rel='noopener noreferrer'
         >
